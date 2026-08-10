@@ -67,8 +67,9 @@ Subject to client confidentiality and project ownership requirements, I may prov
 
 If you would like to review the source code of any project listed here, please contact me:
 
-**Email:** your-email@example.com  
-**LinkedIn:** Your LinkedIn Profile  
-**GitHub:** Your GitHub Profile
+**Email:** [reazu.dev@gmail.com](mailto:reazu.dev@gmail.com)  
+**Portfolio:** [https://reazul-islam-reaz.vercel.app/](https://reazul-islam-reaz.vercel.app/)  
+**LinkedIn:** [https://www.linkedin.com/in/reazulislam1487/](https://www.linkedin.com/in/reazulislam1487/)  
+**GitHub:** [https://github.com/reazulislamreaz](https://github.com/reazulislamreaz)
 
 Thank you for taking the time to review my work.
