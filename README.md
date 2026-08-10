@@ -36,6 +36,8 @@ Subject to client confidentiality and project ownership requirements, I may prov
 
 ### 1. Project Name
 
+![Project Code Overview](https://i.postimg.cc/258zx9dZ/Screenshot-from-2026-08-10-12-41-32.png)
+
 **Type:** E-commerce Platform
 
 **Role:** Backend-Focused Full Stack Engineer
